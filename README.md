@@ -1,0 +1,4 @@
+# goTraining
+这是个熟悉的go的一个DOME
+
+由于新项目组准备用node和go作为微服务架构的两把利刃同步进行开发，于是乎就毫不犹豫的入坑~:stuck_out_tongue_closed_eyes:
